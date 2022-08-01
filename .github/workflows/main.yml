@@ -1,4 +1,4 @@
-name: Maven CI/CD
+name: Shobit Maven CI/CD
 
 on:
   push:
